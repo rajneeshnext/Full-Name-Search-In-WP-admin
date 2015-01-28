@@ -19,7 +19,7 @@ But what if you want to search user by first name or last name or both. What if 
 email address or username, you cannot do it as by default WordPress do not come with this feature.
 Above limitation motivated me to develop a plugin which could perform search based 
 on full-name , first-name, last-name, email and username.
-“Full Name Search In WP-admin” Plugin allows admin to search user much more deeply and overcomes the limit possessed by WordPress.
+“Full Name Search In WP-admin” Plugin that allows admin to search user much more deeply and overcomes the limit possessed by WordPress.
 
 
 == Installation ==
