@@ -1,6 +1,6 @@
 ﻿=== Plugin Name ===
 Contributors: merajneesh
-Donate link: http://www.boldertechno.com/products/search-by-full-name-in-wordpress-admin/
+Donate link: http://goo.gl/77hp1C
 Tags: Search by full name in wpadmin , Empower user search wp-admin
 Requires at least: 3.5
 Tested up to: 4.1
@@ -32,7 +32,7 @@ on full-name , first-name, last-name, email and username.
 == Frequently Asked Questions ==
 
 = Ask you Questions on plug-in page comments =
-Connect on http://www.boldertechno.com/products/search-by-full-name-in-wordpress-admin/ for questions
+Connect on http://goo.gl/77hp1C for questions
 
 == Upgrade Notice ==
 Will upgrade after reviewing users feedback
